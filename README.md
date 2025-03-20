@@ -1,1 +1,2 @@
 world
+A new line
